@@ -29,6 +29,17 @@ main h2 {
     color: blueviolet;
     background-color: blue;
     padding: 5px;
+=======
+.tc-style {
+    color: darkmagenta;
+    background-color: gold;
+    padding: 10px;
+}
+.jane-style {
+    color: hotpink;
+    background-color: black;
+    padding: 3px;
+
 }
 
 .code-ninja-style {
