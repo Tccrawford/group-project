@@ -24,6 +24,12 @@ main h2 {
     margin: 0 auto;
 }
 
+/* Add Student Styles Below */
+.alejandro-style {
+    color: blueviolet;
+    background-color: blue;
+    padding: 5px;
+=======
 .tc-style {
     color: darkmagenta;
     background-color: gold;
@@ -33,6 +39,7 @@ main h2 {
     color: hotpink;
     background-color: black;
     padding: 3px;
+
 }
 
 .code-ninja-style {
